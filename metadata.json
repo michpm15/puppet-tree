@@ -1,0 +1,15 @@
+{
+  "name": "michpm15-tree",
+  "version": "0.1.0",
+  "author": "michpm15",
+  "summary": "Manage Tree",
+  "license": "Apache-2.0",
+  "source": "https://github.com/michpm15/puppet-tree",
+  "project_page": "https://github.com/michpm15/puppet-tree",
+  "issues_url": "https://github.com/michpm15/puppet-tree/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
