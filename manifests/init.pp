@@ -44,5 +44,6 @@
 #
 class tree {
 
+  class { '::tree::install.pp' : }
 
 }
